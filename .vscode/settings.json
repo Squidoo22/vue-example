@@ -1,0 +1,10 @@
+{
+	"reactSnippets.settings.prettierEnabled": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": false,
+	"editor.defaultFormatter": "Vue.volar",
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
